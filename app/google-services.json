@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "847324842215",
+    "project_id": "datatemanyuyu-d5bbc",
+    "storage_bucket": "datatemanyuyu-d5bbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847324842215:android:9644615f7df15da7dbfa42",
+        "android_client_info": {
+          "package_name": "com.example.datatemanyuyu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847324842215-b7rnkiu4pvbrhrv6l9c5cnoefaeq4gp7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.datatemanyuyu",
+            "certificate_hash": "8d1cab62c7a4b4049d15e449779e72bd14654bc7"
+          }
+        },
+        {
+          "client_id": "847324842215-ar3ldrr2bk9js4c3eqqfncf15oce7hr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrq7woLfR2_JzEalnnWRSzLg2g1yiXpKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847324842215-ar3ldrr2bk9js4c3eqqfncf15oce7hr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
